@@ -13,6 +13,6 @@ This will replace any existing global blocks you may have already had, so it is 
 2. Copy the contents of `blockdefs` into your server's blockdefs folder.
 3. Copy the contents of `blockprops` into your server's blockprops folder.
 4. Start up your server.
-5. Use `/texture global https://www.dropbox.com/scl/fi/etoidykbssk5prkgzif9z/customOpenBlocks.zip?rlkey=74emxysb5wsr6mfigbp1svzxf&dl=0`
+5. Use `/texture global https://garbage.loan/f/Goodly/customopenblocks.zip`
 
 That's it! 
