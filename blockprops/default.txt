@@ -1,8 +1,8 @@
 # This represents the physics properties for blocks, in the format of:
 # id : Is rails : Is tdoor : Is door : Is message block : Is portal : Killed by water : Killed by lava : Kills players : death message : Animal AI type : Stack block : Is OP block : oDoor block : Drownable : Grass block : Dirt block
 329:False:False:False:False:False:False:False:False::0:0:False:255:False:255:255
-331:False:False:False:False:False:False:False:False::0:322:False:255:False:255:255
-335:False:False:False:False:False:False:False:False::0:5:False:255:False:255:255
+331:False:False:False:False:False:False:False:False::0:0:False:255:False:255:255
+335:False:False:False:False:False:False:False:False::0:0:False:255:False:255:255
 342:False:False:False:False:False:False:False:False::0:1:False:255:False:255:255
 348:False:False:False:False:False:False:False:False::0:5:False:255:False:255:255
 354:False:False:False:False:False:False:False:False::0:21:False:255:False:255:255
@@ -30,20 +30,20 @@
 498:False:False:False:False:False:False:False:False::0:59:False:255:False:255:255
 504:False:False:False:False:False:False:False:False::0:65:False:255:False:255:255
 510:False:False:False:False:False:False:False:False::0:322:False:255:False:255:255
-512:False:False:False:False:False:False:False:False::0:322:False:255:False:255:255
+512:False:False:False:False:False:False:False:False::0:0:False:255:False:255:255
 516:False:False:False:False:False:False:False:False::0:323:False:255:False:255:255
 518:False:False:False:False:False:False:False:False::0:0:False:255:False:255:255
 522:False:False:False:False:False:False:False:False::0:324:False:255:False:255:255
-524:False:False:False:False:False:False:False:False::0:324:False:255:False:255:255
+524:False:False:False:False:False:False:False:False::0:0:False:255:False:255:255
 528:False:False:False:False:False:False:False:False::0:325:False:255:False:255:255
-530:False:False:False:False:False:False:False:False::0:325:False:255:False:255:255
+530:False:False:False:False:False:False:False:False::0:0:False:255:False:255:255
 534:False:False:False:False:False:False:False:False::0:329:False:255:False:255:255
-536:False:False:False:False:False:False:False:False::0:329:False:255:False:255:255
+536:False:False:False:False:False:False:False:False::0:0:False:255:False:255:255
 540:False:False:False:False:False:False:False:False::0:330:False:255:False:255:255
-542:False:False:False:False:False:False:False:False::0:330:False:255:False:255:255
+542:False:False:False:False:False:False:False:False::0:0:False:255:False:255:255
 546:False:False:False:False:False:False:False:False::0:336:False:255:False:255:255
-548:False:False:False:False:False:False:False:False::0:336:False:255:False:255:255
+548:False:False:False:False:False:False:False:False::0:0:False:255:False:255:255
 552:False:False:False:False:False:False:False:False::0:337:False:255:False:255:255
-554:False:False:False:False:False:False:False:False::0:337:False:255:False:255:255
+554:False:False:False:False:False:False:False:False::0:0:False:255:False:255:255
 558:False:False:False:False:False:False:False:False::0:338:False:255:False:255:255
-560:False:False:False:False:False:False:False:False::0:338:False:255:False:255:255
+560:False:False:False:False:False:False:False:False::0:0:False:255:False:255:255
