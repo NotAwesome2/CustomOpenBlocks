@@ -11,7 +11,7 @@ This will replace any existing global blocks you may have already had, so it is 
 
 1. Shut down your server and install inf-id MCGalaxy_.dll if you do not already have it. This will enable blocks past ID 255 to work.
 2. Copy the contents of `blockdefs` into your server's blockdefs folder.
-3. Copy the contents of `blockprops` into your server's blockprops folder.
+3. Copy the contents of `blockprops` into your server's blockprops folder. If this folder doesn't exist, just create it.
 4. Start up your server.
 5. Use `/texture global https://garbage.loan/f/Goodly/customopenblocks.zip`
 
