@@ -14,5 +14,6 @@ This will replace any existing global blocks you may have already had, so it is 
 3. Copy the contents of `blockprops` into your server's blockprops folder. If this folder doesn't exist, just create it.
 4. Start up your server.
 5. Use `/texture global https://garbage.loan/f/Goodly/customopenblocks.zip`
+6. Or `/texture global https://garbage.loan/f/goodlyay/customopenblocksvanilla.zip`
 
 That's it! 
